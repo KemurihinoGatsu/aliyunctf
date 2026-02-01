@@ -1,1 +1,1 @@
-Expert mode: run /readflag to diagnostic. If you see login, it's safe to skip it by pressing Enter multiple times until you see the prompt.
+Expert mode: please use the exploit tool to run /readflag > out.txt. Then cat out.txt.
