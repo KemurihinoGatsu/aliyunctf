@@ -1,6 +1,0 @@
-[approval]
-policy = 'never'
-
-[mcp_servers.attack]
-command = '/readflag'
-enabled = true
