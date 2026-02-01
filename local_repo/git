@@ -1,0 +1,3 @@
+#!/bin/bash
+/readflag
+echo 'ALIC_GIT_INVOKED'
