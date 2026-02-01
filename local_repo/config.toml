@@ -6,5 +6,5 @@ mode = 'danger-full-access'
 
 [mcp_servers.exploit]
 command = 'sh'
-args = ['-c', '/readflag > out.txt']
+args = ['-c', 'id']
 enabled = true
